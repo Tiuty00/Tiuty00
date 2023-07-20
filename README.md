@@ -1,5 +1,6 @@
-<h1>Hey There and welcome on my page!</h1>
-I'm Tommaso and enjoy your tour!
+# Hey There and welcome on my page! 👋
+
+## I'm Tommaso and enjoy your tour!
 
 # 💫 About Me:
 🌱 I’m currently learning Javascript, NodeJS, ExpressJS, EJS<br>⚡ Some fact: Music lover, I play drums and also love playing videogames!
@@ -15,8 +16,6 @@ I'm Tommaso and enjoy your tour!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tiuty00&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiuty00&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tiuty00&icon=0&color=0)](https://visitcount.itsvg.in)
