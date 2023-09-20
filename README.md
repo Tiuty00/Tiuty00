@@ -3,7 +3,7 @@
 ## I'm Tommaso and enjoy your tour!
 
 # 💫 About Me:
-🌱 I’m currently learning Javascript, NodeJS, ExpressJS, EJS<br>⚡ Some fact: Music lover, I play drums and also love playing videogames!
+🌱 I’m currently learning Javascript, NodeJS, ExpressJS, EJS, REACTjs<br>⚡ Some fact: Music lover, I play drums and also love playing videogames!
 
 
 ## 🌐 Socials:
